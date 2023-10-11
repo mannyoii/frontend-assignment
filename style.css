@@ -184,7 +184,7 @@ header {
 
 .contain {
   width: 330px;
-  height: 400px;
+  /* height: 400px; */
   margin: 0 auto;
   /* border: 2px solid steelblue; */
   display: flex;
@@ -235,7 +235,7 @@ header {
 .divider-container {
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 15px;
   align-items: center;
   width: 328px;
   height: 26px;
